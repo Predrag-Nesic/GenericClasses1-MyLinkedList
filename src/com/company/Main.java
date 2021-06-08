@@ -1,8 +1,5 @@
 package com.company;
 
-import java.io.InvalidObjectException;
-import java.rmi.ServerError;
-
 public class Main {
 
     public static void main(String[] args) {
